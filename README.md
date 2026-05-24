@@ -1,6 +1,9 @@
 # 🛒 FreshKart — Full Stack Grocery Delivery Web Application 🚚🥬
 FreshKart is a modern, responsive, and fully functional Full Stack Grocery Delivery Web Application developed to provide users with a smooth and professional online grocery shopping experience. The project combines an attractive frontend, powerful backend APIs, and secure MySQL database integration to create a complete real-world grocery delivery platform. 🚀
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Home Page
+<img width="1500" height="700" alt="Screenshot 2026-05-24 133019" src="https://github.com/user-attachments/assets/93675b1b-0d5f-4549-86aa-dfc85141a452" />
+
 # ✨ Frontend Features (React JS)
 ✅ Modern & Professional UI Design  
 ✅ Fully Responsive Layout 📱💻  
